@@ -2,8 +2,6 @@ import random
 from random import *
 import sys
 import time
-import pygame
-import reciever
 '''
     fw = open("levels.UR", "r+")
     line = fw.readline()
